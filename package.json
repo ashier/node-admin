@@ -1,0 +1,29 @@
+{
+  "name": "node-admin",
+  "version": "0.0.1",
+  "description": "ERROR: No README.md file found!",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": "",
+  "keywords": [
+    "nodejs",
+    "rest",
+    "api",
+    "express",
+    "mongoose"
+  ],
+  "author": "Ashier de Leon",
+  "license": "BSD",
+  "dependencies": {
+    "express": "3.2.4",
+    "moment": "*",
+    "markdown": "*",
+    "mongoose": "*"
+  },
+  "devDependencies": {
+    "nodemon" : "*",
+    "recess": "*"
+  }
+}
