@@ -21,9 +21,11 @@
   "license": "BSD",
   "dependencies": {
     "express": "3.2.4",
-    "moment": "*",
-    "markdown": "*",
-    "mongoose": "*"
+    "moment": "2.0.0",
+    "markdown": "0.4.0",
+    "mongoose": "3.6.11",
+    "commander": "0.6.1",
+    "mkdirp": "0.3.4"
   },
   "devDependencies": {
     "nodemon" : "*",
